@@ -1,0 +1,5 @@
+files;label;ini;fi;f_ini;f_fin
+EEG_1;Sleep;0;120;80;200
+EEG_1;Sleep;120;240;80;200
+EEG_1;Sleep;0;120;200;400
+EEG_1;Sleep;120;240;200;400
